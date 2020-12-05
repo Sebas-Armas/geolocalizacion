@@ -13,5 +13,4 @@ hasta el despliegue en dispositivos móviles):
 API Google:
   - https://blog.ensalza.com/api-google-maps/
 
-Código Git:
-  - https://github.com/Sebas-Armas/prjWebService
+
